@@ -1,6 +1,6 @@
 import os
 import csv
-import openai
+import openai 
 import random
 from dotenv import load_dotenv
 from nltk.corpus import stopwords
@@ -216,11 +216,6 @@ def main():
                 st.write("Emoción detectada: ", row_emocion["emocion_detectada"], f"- Sentimiento detectado: {row_sentimiento['sentimiento']}")
 
 
-
-
 if __name__ == "__main__":
     main()
-
-
-
 
