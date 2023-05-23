@@ -89,7 +89,12 @@ After clicking the "Analyze" button, the application will perform the following 
 
 . __Sentiment Analysis__: The generated tweets will be analyzed to determine the sentiment associated with each tweet. Language-specific sentiment classification models will be used for each selected language.
 
-. __Emotion Detection__: In addition to sentiment analysis, the application will detect the emotions present in each tweet. Language-specific emotion classification models will be used for each selected language.
+. __Emotion Detection__: In addition to sentiment analysis, the application will detect the emotions present in each tweet, if it says "Neutral," it's because there are too many emotions colliding, and it doesn't specify one in particular.
+
+
+
+
+. Language-specific emotion classification models will be used for each selected language.
 
 __Analysis Results__
 Once the analysis is complete, the application will display the following results:
