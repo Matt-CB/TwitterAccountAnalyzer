@@ -16,7 +16,9 @@ from PIL import Image
 import time
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+st.sidebar.title("Configuración")
+OPENAI_API_KEY = st.sidebar.text_input("API KEY:")
+st.write("Ingresa los datos ")
 IDIOMAS = ['Alemán', 'Español', 'Francés', 'Inglés', 'Italiano']
 idioma = st.sidebar.selectbox("Idioma:", IDIOMAS)
 
