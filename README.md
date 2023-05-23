@@ -58,6 +58,8 @@ The user interface of the application consists of two columns. The first column 
 
 In the second column, you will find the following elements:
 
+__API KEY::__ Here you should place the key you obtained from OpenAI to use it in the tweet generator..  
+
 __Username:__ A text field to enter the username of the Twitter account you want to analyze.  
 
 __Number of Tweets:__ A slider to select the number of tweets to be generated and analyzed.  
