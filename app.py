@@ -14,7 +14,7 @@ import pandas as pd
 import streamlit as st
 from PIL import Image
 import time
-
+                        #Para actualizar las librerias de requirements.txt en caso de error, escribir esto en consola: pip install --upgrade -r requirements.txt
 load_dotenv()
 st.sidebar.title("Configuración")
 OPENAI_API_KEY = st.sidebar.text_input("API KEY:")
@@ -129,7 +129,7 @@ class AnalizadorTwitter:
         data['emocion_detectada'] = emociones_detectadas
 
         #menciona todas las columnas de data
-        
+
 
         return data
 
