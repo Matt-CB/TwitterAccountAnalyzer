@@ -8,6 +8,7 @@ from nltk.tokenize import word_tokenize
 from nltk import pos_tag
 from collections import Counter
 import nltk
+nltk.download('punkt')
 from transformers import pipeline
 from mtranslate import translate
 import pandas as pd
