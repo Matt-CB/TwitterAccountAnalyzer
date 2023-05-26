@@ -10,14 +10,14 @@ https://matt-cb-twitteraccountanalyzer-app-xbf2h3.streamlit.app/
 
 
 
-The Twitter Account Analyzer is an application that allows you to analyze and generate tweets. It provides functionalities for sentiment analysis, emotion detection, and identifying the main topic of tweets. Below is a detailed and easy-to-understand documentation for the project.
+The Twitter Account Analyzer is an application that allows you to analyze and generate tweets. It provides functionalities for __sentiment analysis__, __emotion detection__, and __identifying the main topic__ of tweets in a a __multilingual__ way. Below is a detailed and easy-to-understand documentation for the project.
 
 ## Repository Structure 
 
 The repository contains several files and folders that are necessary for the functioning of the analyzer. Here's a description of each of them:
 
 - `.env`: This file contains the environment variables and libraries required for running the project.
-- `.images`: This folder contains the Twitter logo used in the user interface.
+- `.images`: This folder contains the Twitter logo used the user interface.
 - `.tweets`: This folder stores all the generated and analyzed tweets.
 - `app.py`: This is the main file of the project. It contains the main code of the application, including the user interface and the logic for tweet generation and analysis.
 
