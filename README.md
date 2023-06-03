@@ -6,7 +6,8 @@
 </p>
 
 ## You can use it in this link: 
-https://matt-cb-twitteraccountanalyzer-app-xbf2h3.streamlit.app/
+Deploy in streamlit: https://matt-cb-twitteraccountanalyzer-app-xbf2h3.streamlit.app/
+Deploy en hugging face: https://huggingface.co/spaces/Matt-CB/TwitterAccountAnalyzer (Change the theme to dark mode for better visibility.)
 
 
 
