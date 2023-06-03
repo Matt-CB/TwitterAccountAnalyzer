@@ -5,11 +5,11 @@
   <img src="images/BannerTwitter.png" alt="twitter" width="1000">
 </p>
 
-## You can use it in this link: 
+## You can use it in this link:  
+
+Deploy en hugging face: https://huggingface.co/spaces/Matt-CB/TwitterAccountAnalyzer (Change the theme to dark mode for better visibility.)  
+
 Deploy in streamlit: https://matt-cb-twitteraccountanalyzer-app-xbf2h3.streamlit.app/  
-
-Deploy en hugging face: https://huggingface.co/spaces/Matt-CB/TwitterAccountAnalyzer (Change the theme to dark mode for better visibility.)
-
 
 
 The Twitter Account Analyzer is an web application that allows you to analyze and generate tweets. It provides functionalities for __sentiment analysis__, __emotion detection__, and __identifying the main topic__ of tweets in a a __multilingual__ way. Below is a detailed and easy-to-understand documentation for the project.
