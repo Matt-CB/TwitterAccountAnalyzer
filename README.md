@@ -20,7 +20,6 @@ The Twitter Account Analyzer is an web application that allows you to analyze an
 
 The repository contains several files and folders that are necessary for the functioning of the analyzer. Here's a description of each of them:
 
-- `.env`: This file contains the environment variables and libraries required for running the project.
 - `.images`: This folder contains the Twitter logo used the user interface.
 - `.tweets`: This folder stores all the generated and analyzed tweets.
 - `app.py`: This is the main file of the project. It contains the main code of the application, including the user interface and the logic for tweet generation and analysis.
